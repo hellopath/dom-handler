@@ -1,0 +1,36 @@
+{
+  "name": "dom-handler",
+  "version": "1.0.0",
+  "description": "A dom handler that wraps the famous npm-dom modules",
+  "main": "index.js",
+  "dependencies": {
+    "dom-classes": "0.0.1",
+    "dom-event": "0.0.5",
+    "dom-select": "^1.1.0",
+    "dom-style": "0.0.3",
+    "dom-tree": "0.0.1",
+    "element-size": "^1.1.1",
+    "is-dom": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://hellopath@github.com/hellopath/dom-handler.git"
+  },
+  "keywords": [
+    "dom",
+    "handler",
+    "npm-dom",
+    "cross-browser",
+    "manipulation"
+  ],
+  "author": "hellopath <contact@pa-th.com> (http://pa-th.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hellopath/dom-handler/issues"
+  },
+  "homepage": "https://github.com/hellopath/dom-handler#readme"
+}
